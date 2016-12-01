@@ -1,5 +1,3 @@
-Projeto desenvolvido para o teste da acesso:
-
 End Point:
 
 get /iniciar:
